@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 15%;
+}
+
+label {
+  margin: 20%;
+}
+input {
+  grid-gap: 4%;
+  margin: 5px;
+  padding-right: 5%;
+  margin-right: 5%;
+}
+table {
+  border: solid black;
+  margin: 5px;
+}
+th {
+  border: solid black;
+}
